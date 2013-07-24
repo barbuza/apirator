@@ -1,0 +1,7 @@
+/apirator_proj
+/foo
+/dist
+/venv
+*.pyc
+*.egg-info
+.DS_Store
